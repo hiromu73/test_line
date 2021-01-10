@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:test_line/tile.dart';
 
 
+///トーク遷移先
 class Talk extends StatelessWidget{
   @override
   Widget build(BuildContext context){
