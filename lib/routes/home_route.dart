@@ -1,6 +1,6 @@
 
 
-////ホームをクリックでの遷移先
+////ホーム遷移先
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget{
