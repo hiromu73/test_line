@@ -1,7 +1,8 @@
 
 import 'package:flutter/material.dart';
 
-///トーク画面から遷移
+
+///トーク画面からchat遷移先
 ///Navigatorで遷移した場合はBackボタンが自動付与
 ///
 class Chat extends StatelessWidget{
