@@ -1,5 +1,6 @@
 
 
+///ニュース遷移先
 import 'package:flutter/material.dart';
 
 class News extends StatelessWidget{
