@@ -3,6 +3,7 @@
 
 import 'package:flutter/material.dart';
 
+///ウォッレット遷移先
 class Wallet extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
